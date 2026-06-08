@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Provas para Google Forms",
+  "description": "Uma ferramenta interativa para auxiliar professores a criarem provas estruturadas no Google Forms automaticamente usando inteligência artificial e Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
